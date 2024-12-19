@@ -1,4 +1,4 @@
-![hero](example/hero.png)
+![oni](example/oni.png)
 
 # Portfolio using React.js 
 
