@@ -1,6 +1,6 @@
 ![hero](example/hero.png)
 
-# Portfolio using React.js and Chakra UI
+# Portfolio using React.js 
 
 This portfolio is built using React.js. It allows you to quickly create and customize your portfolio website using markdown files.
 
